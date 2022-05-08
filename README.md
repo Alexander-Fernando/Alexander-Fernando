@@ -3,7 +3,7 @@ I'm Fernando Alexander <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uW
 
 ```javascript
 const Alex = {
-    code: ["Javascript", "Typescript", "Python", "Java", "c++"],
+    code: ["Javascript", "Typescript", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
@@ -12,6 +12,7 @@ const Alex = {
         },
         backEnd: {
             js: ["node", "express"],
+            PHP: ["Laravel"]
         },
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "Material UI"]
