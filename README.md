@@ -17,6 +17,7 @@ const Alex = {
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "Material UI"]
     },
+    tools:["POSTMAN", "DATAGRIP", "MySQL Workbench", "MongoDBCompass"]
 };
 ```
 <!--
