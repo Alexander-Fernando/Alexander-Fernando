@@ -1,5 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 I'm Fernando Alexander <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+Soy estudiante de ingeniería de software pronto a graduarme. En vista de mi pasión por la tecnología, el desarrollo web y como futuro ingeniero comprometido y responsable, me gustaría formar parte de una empresa en la cual poder crecer profesionalmente y dar lo mejor de mí.
 
 ```javascript
 const Alex = {
