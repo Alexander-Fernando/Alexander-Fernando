@@ -3,22 +3,22 @@ I'm Fernando Alexander <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uW
 Soy estudiante de ingeniería de software pronto a graduarme. En vista de mi pasión por la tecnología, el desarrollo web y como futuro ingeniero comprometido y responsable, me gustaría formar parte de una empresa en la cual poder crecer profesionalmente y dar lo mejor de mí.
 
 ```javascript
-const Alex = {
-    code: ["Javascript", "Typescript", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev"],
-    technologies: {
+const Alexander = {
+    Code: ["Javascript", "Typescript", "PHP"],
+    AskMeAbout: ["web dev", "tech", "app dev", "
+engineer"],
+    Technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["Material UI", "styled-components", "bootstrap"]
+            css: ["Material UI", "styled-components", "Bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
             PHP: ["Laravel"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "Material UI"]
+        databases: ["mongo", "MySql"],
     },
-    tools:["POSTMAN", "DATAGRIP", "MySQL Workbench", "MongoDBCompass"]
+    Tools:["POSTMAN", "DATAGRIP", "MySQL Workbench", "MongoDBCompass"]
 };
 ```
 <!--
