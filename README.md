@@ -4,7 +4,7 @@ Soy estudiante de ingeniería de software pronto a graduarme. En vista de mi pas
 
 ```javascript
 const Alexander = {
-    Code: ["Javascript", "Typescript", "PHP"],
+    Code: ["Javascript", "Java", "Python"],
     AskMeAbout: ["web dev", "tech", "app dev", "
 engineer"],
     Technologies: {
@@ -18,7 +18,7 @@ engineer"],
         },
         databases: ["mongo", "MySql"],
     },
-    Tools:["POSTMAN", "DATAGRIP", "MySQL Workbench", "MongoDBCompass"]
+    Tools:["POSTMAN", "DATAGRIP", "MySQL Workbench", "MongoDBCompass", "AWS"]
 };
 ```
 <!--
